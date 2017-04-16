@@ -1,6 +1,6 @@
-# ETHExplorer V2 based off github.com/etherparty/explorer
+# Soil Explorer based off https://github.com/carsenk/explorer
 
-![ETHExplorer V2 Screenshot](http://i.imgur.com/jxo7EzC.png)
+![Soil Explorer Screenshot](http://i.imgur.com/jxo7EzC.png)
 
 ##License
 
@@ -20,7 +20,7 @@ BTC Address: 1AGxSzTPkthdNKfY5usVLwKDLk9i6sPTQj
 
 ##Installation
 
-`git clone https://github.com/carsenk/explorer`
+`git clone https://github.com/martymcfly2015/explorer`
 
 `npm install`
 
