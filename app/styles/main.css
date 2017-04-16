@@ -56,7 +56,6 @@ body {
 input.searchi {
   background-color: #FFF !important;
   border: 2px solid #384a58;
-  color: #fff;
   width: 100% !important;
 }
 
@@ -64,7 +63,6 @@ input.searchimain {
   height: 50px;
   background-color: #FFF !important;
   border: 2px solid #384a58;
-  color: #fff;
   width: 100%;
 }
 
